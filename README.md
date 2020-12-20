@@ -6,7 +6,7 @@ Python 3.8.5 (venv)
 pip 20.1.1
 
 
-##Instruction:
+## Instruction:
 
 1. Run `$ . venv/bin/activate`
 2. Run `$ export FLASK_APP=hello.py`
@@ -14,9 +14,9 @@ pip 20.1.1
 (`* Running on http://127.0.0.1:5000/`)
 
 
-##Progress
+## Progress
 
-###20200822 Notes
+### 20200822 Notes
 
 What I did:
 - install python3, pip, and other application needed for flask 
@@ -26,7 +26,7 @@ What I did:
 Key take-away:
 - DO NOT NAME your python file `flask.py`, it creates namespace conflict with the real flask module
 
-###20201220 Notes
+### 20201220 Notes
 
 What I did:
 - Flask API tutorial: https://www.youtube.com/watch?v=CweFPVewYS0
