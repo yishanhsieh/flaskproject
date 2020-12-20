@@ -34,4 +34,8 @@ Key take-away:
 What I did:
 - [Flask API tutorial](https://www.youtube.com/watch?v=CweFPVewYS0)
 - [Message flashing](https://flask.palletsprojects.com/en/1.1.x/patterns/flashing/#message-flashing-pattern)
+- integer sequences [1,1,2,6,24,120...](https://drive.google.com/file/d/1pAQQ_Yjkpl20jCR6dGqAIAqOXjrkT7JT/view?usp=sharing)
+
+
+
   
