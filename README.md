@@ -32,6 +32,6 @@ Key take-away:
 ### 20201220 Notes
 
 What I did:
-- Flask API tutorial: https://www.youtube.com/watch?v=CweFPVewYS0
-- Message flashing: https://flask.palletsprojects.com/en/1.1.x/patterns/flashing/#message-flashing-pattern
+- [Flask API tutorial](https://www.youtube.com/watch?v=CweFPVewYS0)
+- [Message flashing](https://flask.palletsprojects.com/en/1.1.x/patterns/flashing/#message-flashing-pattern)
   
