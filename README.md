@@ -13,6 +13,7 @@ pip 20.1.1
 3. Run `$ flask run`<br>
 (`* Running on http://127.0.0.1:5000/`)
 
+***
 
 ## Progress
 
@@ -25,6 +26,8 @@ What I did:
 
 Key take-away:
 - DO NOT NAME your python file `flask.py`, it creates namespace conflict with the real flask module
+
+***
 
 ### 20201220 Notes
 
